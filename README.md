@@ -1,6 +1,7 @@
-# WhiteSur Light ulauncher
+# pearOS ulauncher theme
+_based on WhiteSur Light ulauncher_
 
-A theme for Ulauncher. WhiteSur Light theme.
+Default pearOS theme for ulauncher
 
 ## Screenshot
 ![](https://i.imgur.com/PQ6hGiT.png)
@@ -9,6 +10,6 @@ A theme for Ulauncher. WhiteSur Light theme.
 
 ```sh
 mkdir -p ~/.config/ulauncher/user-themes
-git clone https://github.com/Raayib/WhiteSur-Light-ulauncher.git \
-  ~/.config/ulauncher/user-themes/WhiteSur-Light-ulauncher
+git clone https://github.com/Pear-Project/pearOS-default-ulauncher-theme.git \
+  ~/.config/ulauncher/user-themes/pearOS
 ```
